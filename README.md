@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/badge/blog-%23AEC6CF?style=for-the-badge&logo=tistory&logoColor=black" style="border-radius: 10px;">
 </a>
 
-![hgggny's github stats](https://github-readme-stats.vercel.app/api?username=hgggny&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![hyunzinbak's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgggny&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![hyunzinbak's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgggny)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgggny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
